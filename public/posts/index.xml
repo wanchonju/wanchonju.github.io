@@ -7,5 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 08 Sep 2024 11:56:51 +0900</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Sep 2024 11:56:51 +0900</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+        <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This is &lt;strong&gt;My Blog&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Visit my &lt;a href=&#34;https://wanchonju.github.io/&#34;&gt;Blog&lt;/a&gt; website!&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
